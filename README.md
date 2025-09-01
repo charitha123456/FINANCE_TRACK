@@ -1,6 +1,8 @@
 OVERVIEW OF APPLICATION:
                FINANCE_TRACK is a personal finance management web application that helps users track their income and expenses, visualize spending patterns, and extract financial data from receipts and PDF statements. Built using MERN (MongoDB,ExpressJS,ReactJS,NodeJS) Stack ,it provides an intuitive interface for managing personal finances.
 
+Application can be accessed through this link: 
+
 Dependencies to install:
                Open New Terminal, 
                cd FINANCE_TRACK
@@ -43,7 +45,7 @@ If the port is already in use:
                kill -9 1234  # Replace 1234 with actual PID
 
 BONUS FEATURES VERIFICATION:
-               Tabular Format PDF Processing: Go to Upload page -> Select "PDF Statement" -> Upload bank statement PDF -> Extracts expenses and incomes from the pdf -> Gets reflected in Transactions.
+               Tabular Format PDF Processing: Go to Upload page -> Select "PDF Statement" -> Upload bank statement PDF -> Extracts expenses and incomes from the pdf -> Gets                        reflected in Transactions.
                Pagination: Transactions page -> Add more than 10 transactions -> Scroll down -> U will see the next transactions in the second page.(10 Transactions per page)
                Support Multiple Users: Register two accounts -> Create transactions in each of them -> One can see only their own transactions in the application.
 

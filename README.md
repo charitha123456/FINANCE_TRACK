@@ -1,8 +1,6 @@
 OVERVIEW OF APPLICATION:
                FINANCE_TRACK is a personal finance management web application that helps users track their income and expenses, visualize spending patterns, and extract financial data from receipts and PDF statements. Built using MERN (MongoDB,ExpressJS,ReactJS,NodeJS) Stack ,it provides an intuitive interface for managing personal finances.
 
-Application can be accessed through this link: 
-
 Dependencies to install:
                Open New Terminal, 
                cd FINANCE_TRACK

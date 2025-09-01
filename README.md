@@ -47,4 +47,4 @@ BONUS FEATURES VERIFICATION:
                Pagination: Transactions page -> Add more than 10 transactions -> Scroll down -> U will see the next transactions in the second page.(10 Transactions per page)
                Support Multiple Users: Register two accounts -> Create transactions in each of them -> One can see only their own transactions in the application.
 
-Application can be accesses through this link:
+
